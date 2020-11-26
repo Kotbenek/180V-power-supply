@@ -8,3 +8,4 @@ Designed for rectified 12V AC input
 <img src="images/3d_board_1.png">
 <img src="images/3d_board_2.png">
 <img src="images/3d_board_3.png">
+<img src="images/3d_board_4.png">
