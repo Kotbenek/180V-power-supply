@@ -1,7 +1,9 @@
 # 180V-power-supply
 180V power supply PCB used in my Nixie clock
 
-Designed for rectified 12V AC input (around 16V DC)
+## Board overview
+- Designed for rectified, smoothed 12V AC input (around 16V DC)
+- 180V DC output
 
 ## Images
 
